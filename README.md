@@ -6,9 +6,9 @@ In this project, I train an image classifier to recognize different flower speci
 
 The project is broken down into multiple steps:
 
-1 - Load and preprocess the image dataset
-2 - Train the image classifier on your dataset
-3 - Use the trained classifier to predict image content
+1 - Load and preprocess the image dataset.   
+2 - Train the image classifier on your dataset.   
+3 - Use the trained classifier to predict image content.   
 
 
 The classifier in the application phase can be trained on any set of labeled images. The neural network will be learning about flowers and end up as a command line application. For instance, imagine an app where you take a picture of a car, it tells you what the make and model is, then looks up information about it. 
