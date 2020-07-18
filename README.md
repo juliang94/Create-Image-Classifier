@@ -1,4 +1,4 @@
-# Create-Image-Classifier
+# Flower-Image-Classifier
 Second project from Udacity
 
 In this project, I train an image classifier to recognize different flower species. This is analogous to a phone app that tells you the name of the flower the camera is looking at. After training this classifier, I export it for use in an application by running it in a command line environment. The dataset consists of 102 flower categories, you can see a few examples below.
